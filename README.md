@@ -1,11 +1,11 @@
-![REPLACEMENT](https://github.com/kyomahooin/azudokei/raw/master/azudokei.png "replacement")
+![REPLACEMENT](https://github.com/kyomahooin/Azudokei/raw/master/azudokei.png "replacement")
 
 Corner stone replacement.
 
 FILE
 <pre>
-azudokey.scad - OpenSCAD source code.
-azudokey.stl - STL render.
-azudokey.png - Replacement screen.
+azudokei.scad - OpenSCAD source code.
+azudokei.stl - STL render.
+azudokei.png - Replacement screen.
 </pre>
 
