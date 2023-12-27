@@ -1,4 +1,4 @@
-![REPLACEMENT](https://github.com/kyomahooin/Azudokei/blob/master/azudokei.png?raw=true "replacement")
+![REPLACEMENT](https://github.com/kyomahooin/Azudokei/blob/main/azudokei.png?raw=true "replacement")
 
 Corner stone replacement.
 
