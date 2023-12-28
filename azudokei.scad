@@ -8,6 +8,8 @@ height = 17;
 width = 19;
 thick = 1.5;
 
+translate([1,1,1]) {
+
 difference() {
 
 union () {
@@ -50,5 +52,7 @@ hull () {
 
 // DIFF
 translate ([0.25,0.25,0.25]) {cube([20,20,20]);}
+
+}
 
 }
